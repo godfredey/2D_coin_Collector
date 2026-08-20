@@ -25,6 +25,6 @@ A lightweight, browser-based 2D grid game built using vanilla JavaScript, HTML, 
 
 ## Built With
 
-* **JavaScript (ES6+)** - Core game loop, collision algorithms, and state management.
-* **HTML5** - Game layout and game canvas elements.
+* **JavaScript ** - Core game loop, collision algorithms, and state management.
+* **HTML** - Game layout and game canvas elements.
 * **CSS3** - Game container styling and absolute positioning system.
